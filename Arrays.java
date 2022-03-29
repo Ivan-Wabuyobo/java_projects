@@ -17,7 +17,7 @@ public class Arrays {
          }
 
 
-        System.out.println("Please enter a name:");
+        //System.out.println("Please enter a name:");
         Scanner input = new Scanner(System.in);
         String name = input.next();
 
